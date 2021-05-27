@@ -1,4 +1,5 @@
 
+#swagger ui added
 A RESTFull API to maintain a journal of calories burned daily during the runs. 
 Endpoints:
 - create profile (age, weight, username) 
